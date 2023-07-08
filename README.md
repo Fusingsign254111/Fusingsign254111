@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning more python, Java  and lua
 - 💞️ I’m looking to collaborate on bots
-- 📫 How to reach me Discord: Fusingsign25411#9288
+- 📫 How to reach me Discord: Darkcoded_
